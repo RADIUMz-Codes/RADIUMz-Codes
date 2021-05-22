@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RADIUMz-Codes
+- 👋 Hi, I’m Abhishek Kumar aka @RADIUMz-Codes
 - 👀 I’m interested in Android Devlopement
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Android Dev
