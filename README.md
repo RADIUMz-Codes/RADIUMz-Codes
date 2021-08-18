@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">1st Year | KIIT, Bhubaneshwar. | B.Tech (E.E.) | Passionate about Learning new Algorithms and Technologies.</h3>
+<h3 align="center">2nd Year | KIIT, Bhubaneshwar. | B.Tech (E.E.) | Passionate about Learning new Algorithms and Technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radiumz-codes&label=Profile%20views&color=0e75b6&style=flat" alt="radiumz-codes" /> </p>
 
