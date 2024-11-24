@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radiumz-codes&label=Profile%20views&color=0e75b6&style=flat" alt="radiumz-codes" /> </p>
 
-- 🌱 I’m currently learning **Backend Dev using NodeJS**
+- 🌱 I’m currently learning **Backend Dev using Django**
 
-- 💬 Ask me about **React, NodeJS, Android**
+- 💬 Ask me about **Django, Spring Boot, NodeJS, React**
 
 - 📫 How to reach me **theabhikr03@gmail.com**
 
